@@ -18,12 +18,14 @@ The model is trained on a combination of fake and genuine news articles, allowin
 
 ## Dataset
 
-The dataset used in this project consists of two parts:
+The dataset used in this project is publicly available and consists of two files:
 
-* **Fake.csv**: Contains fake news articles
-* **True.csv**: Contains real news articles
+* Fake.csv
+* True.csv
 
-Both datasets are combined and labeled appropriately before training.
+You can download it from:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 
 ## How It Works
 
